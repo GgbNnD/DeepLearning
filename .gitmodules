@@ -1,0 +1,3 @@
+[submodule "YOLOv11"]
+	path = YOLOv11
+	url = https://github.com/GgbNnD/YOLOv11.git
